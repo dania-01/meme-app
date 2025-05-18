@@ -96,12 +96,6 @@ meme-app/
 
 ---
 
-## 📸 Screenshots
-
-> Dashboard, Meme Upload, Leaderboard, etc. *(You can add images here later.)*
-
----
-
 ## 👨‍💻 Author
 
 - **Dania Khan** – [daniakhan0412@gmail.com](mailto:daniakhan0412@gmail.com)
